@@ -1,4 +1,4 @@
- ## Hello! My name is Laura. 👋
+ ## Greetings and Welcome to my Profile! 👋🏻
 
 
 
@@ -13,7 +13,12 @@
 </div>
 
   
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devlaw-ware&count_private=true&show_icons=true&theme=radical" /> </p>
+<p float="left" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devlaw-ware&count_private=true&show_icons=true&theme=radical" />
+  <img height="195cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlaw-ware&theme=radical&layout=donut" />
+</p>
+
+
  
 <div> 
   <a href="https://www.youtube.com/@Cybertechlabsbr" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
