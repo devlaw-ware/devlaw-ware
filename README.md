@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on hardware , being a Computer technician
+- 🔭 I am currently employed as a Computer Technician, specializing in hardware installation, maintenance, and troubleshooting.
 - 🌱 I’m currently learning C and JAVA 
 - 📫 How to reach me: https://www.instagram.com/cybertech_labs/
 - 😄 Pronouns: She/Her
