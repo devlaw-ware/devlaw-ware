@@ -3,7 +3,7 @@
 
 
 - 🔭 I am currently employed as a Computer Technician, specializing in hardware installation, maintenance, and troubleshooting.
-- 🌱 I’m currently learning C and JAVA 
+- 🌱 I’m currently learning C, JAVA, Python and SQL 
 - 📫 How to reach me: https://www.instagram.com/cybertech_labs/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a law degree.
