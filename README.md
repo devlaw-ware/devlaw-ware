@@ -1,17 +1,34 @@
- ## Greetings and Welcome to my Profile! 👋🏻
+# Hi there 👋🏻
 
+💻 Founder of InovaTech  
+🐍 Python Developer  
+🛠️ Computer Technician  
+⚖️ Law Graduate  
 
+---
 
-- 🔭 I am currently employed as a Computer Technician, specializing in hardware installation, maintenance, and troubleshooting.
-- 🌱 I’m currently learning C, JAVA, Python and SQL 
-- 📫 How to reach me: [https://www.instagram.com/cybertech_labs/](https://www.instagram.com/inovatech_pocos/)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have a law degree.
+### 🚀 Tech Stack
 
-<p float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devlaw-ware&count_private=true&show_icons=true&theme=radical" />
-  <img height="195cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlaw-ware&theme=radical&layout=donut" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devlaw-ware&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlaw-ware&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🌐 Contact
 
 </div>
   <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://i.picasion.com/pic92/cb367005ec45c151caffb33a0d04c975.gif">
