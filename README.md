@@ -4,7 +4,7 @@
 
 - 🔭 I am currently employed as a Computer Technician, specializing in hardware installation, maintenance, and troubleshooting.
 - 🌱 I’m currently learning C, JAVA, Python and SQL 
-- 📫 How to reach me: https://www.instagram.com/cybertech_labs/
+- 📫 How to reach me: [https://www.instagram.com/cybertech_labs/](https://www.instagram.com/inovatech_pocos/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a law degree.
 
