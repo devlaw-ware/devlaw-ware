@@ -1,6 +1,6 @@
 # Hi there 👋🏻
 
-💻 Founder of InovaTech  
+💻 Founder of InovaTech Poços
 🐍 Python Developer  
 🛠️ Computer Technician  
 ⚖️ Law Graduate  
